@@ -5,3 +5,5 @@ function sortLargestToSmallest(array)
 		return b - a;
 	});
 }
+
+test;
